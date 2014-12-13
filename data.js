@@ -4,7 +4,7 @@ var json = {
             "children": [],
             "data": {
                 "$area": 4304,
-                "$color": "#FFF5EB",
+                "$color": "#7f2704",
                 "querycount": 4304
             },
             "id": "Artist_0",
@@ -28,7 +28,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 576,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 576,
                         "x": "-58.4969",
                         "y": "-34.5966"
@@ -40,7 +40,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 563,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 563,
                         "x": "-58.4847",
                         "y": "-34.5891"
@@ -52,7 +52,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 505,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 505,
                         "x": "-58.4971",
                         "y": "-34.5968"
@@ -64,7 +64,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 480,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 480,
                         "x": "-58.4833",
                         "y": "-34.5978"
@@ -76,7 +76,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 431,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 431,
                         "x": "-58.4943",
                         "y": "-34.595"
@@ -88,7 +88,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 348,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 348,
                         "x": "-58.4929",
                         "y": "-34.5971"
@@ -100,7 +100,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 341,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 341,
                         "x": "-58.4791",
                         "y": "-34.5997"
@@ -112,7 +112,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 325,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 325,
                         "x": "-58.4788",
                         "y": "-34.5992"
@@ -124,7 +124,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 313,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 313,
                         "x": "-58.5017",
                         "y": "-34.5953"
@@ -145,7 +145,7 @@ var json = {
             ],
             "data": {
                 "$area": 13802,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 13802
             },
             "id": "Artist_1",
@@ -193,7 +193,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1286,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1286,
                         "x": "-58.421",
                         "y": "-34.6115"
@@ -205,7 +205,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1242,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1242,
                         "x": "-58.4246",
                         "y": "-34.606"
@@ -217,7 +217,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1118,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1118,
                         "x": "-58.4191",
                         "y": "-34.5992"
@@ -229,7 +229,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1073,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1073,
                         "x": "-58.4222",
                         "y": "-34.6121"
@@ -241,7 +241,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1043,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1043,
                         "x": "-58.4132",
                         "y": "-34.6047"
@@ -253,7 +253,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1025,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1025,
                         "x": "-58.4197",
                         "y": "-34.604"
@@ -265,7 +265,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1011,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1011,
                         "x": "-58.4201",
                         "y": "-34.6114"
@@ -286,7 +286,7 @@ var json = {
             ],
             "data": {
                 "$area": 129621,
-                "$color": "#A63603",
+                "$color": "#7f2704",
                 "querycount": 129621
             },
             "id": "Artist_2",
@@ -370,7 +370,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1497,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1497,
                         "x": "-58.406",
                         "y": "-34.6101"
@@ -382,7 +382,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1461,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1461,
                         "x": "-58.3922",
                         "y": "-34.6056"
@@ -394,7 +394,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1307,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1307,
                         "x": "-58.3921",
                         "y": "-34.6068"
@@ -406,7 +406,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1274,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1274,
                         "x": "-58.392",
                         "y": "-34.6092"
@@ -427,7 +427,7 @@ var json = {
             ],
             "data": {
                 "$area": 168186,
-                "$color": "#7F2704",
+                "$color": "#7f2704",
                 "querycount": 168186
             },
             "id": "Artist_3",
@@ -511,7 +511,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 425,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 425,
                         "x": "-58.3754",
                         "y": "-34.6344"
@@ -523,7 +523,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 421,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 421,
                         "x": "-58.3694",
                         "y": "-34.6381"
@@ -535,7 +535,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 372,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 372,
                         "x": "-58.375",
                         "y": "-34.6295"
@@ -547,7 +547,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 349,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 349,
                         "x": "-58.3712",
                         "y": "-34.6303"
@@ -568,7 +568,7 @@ var json = {
             ],
             "data": {
                 "$area": 33772,
-                "$color": "#F16913",
+                "$color": "#7f2704",
                 "querycount": 33772
             },
             "id": "Artist_4",
@@ -592,7 +592,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1815,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1815,
                         "x": "-58.4533",
                         "y": "-34.5655"
@@ -604,7 +604,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1389,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1389,
                         "x": "-58.4583",
                         "y": "-34.5604"
@@ -616,7 +616,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1347,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1347,
                         "x": "-58.4559",
                         "y": "-34.5632"
@@ -628,7 +628,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1202,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1202,
                         "x": "-58.4591",
                         "y": "-34.5592"
@@ -640,7 +640,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 956,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 956,
                         "x": "-58.45",
                         "y": "-34.5581"
@@ -652,7 +652,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 955,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 955,
                         "x": "-58.4599",
                         "y": "-34.5583"
@@ -664,7 +664,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 921,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 921,
                         "x": "-58.4551",
                         "y": "-34.5642"
@@ -676,7 +676,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 891,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 891,
                         "x": "-58.4425",
                         "y": "-34.5637"
@@ -688,7 +688,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 871,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 871,
                         "x": "-58.4477",
                         "y": "-34.5567"
@@ -709,7 +709,7 @@ var json = {
             ],
             "data": {
                 "$area": 118143,
-                "$color": "#A63603",
+                "$color": "#7f2704",
                 "querycount": 118143
             },
             "id": "Artist_5",
@@ -805,7 +805,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 204,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 204,
                         "x": "-58.3666",
                         "y": "-34.628"
@@ -817,7 +817,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 204,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 204,
                         "x": "-58.3555",
                         "y": "-34.6324"
@@ -829,7 +829,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 181,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 181,
                         "x": "-58.361",
                         "y": "-34.6317"
@@ -850,7 +850,7 @@ var json = {
             ],
             "data": {
                 "$area": 14026,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 14026
             },
             "id": "Artist_6",
@@ -874,7 +874,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 921,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 921,
                         "x": "-58.4128",
                         "y": "-34.623"
@@ -886,7 +886,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 660,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 660,
                         "x": "-58.4222",
                         "y": "-34.6347"
@@ -898,7 +898,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 451,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 451,
                         "x": "-58.4161",
                         "y": "-34.6233"
@@ -910,7 +910,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 417,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 417,
                         "x": "-58.4162",
                         "y": "-34.6228"
@@ -922,7 +922,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 336,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 336,
                         "x": "-58.4145",
                         "y": "-34.6254"
@@ -934,7 +934,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 327,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 327,
                         "x": "-58.4223",
                         "y": "-34.6265"
@@ -946,7 +946,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 315,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 315,
                         "x": "-58.42",
                         "y": "-34.6261"
@@ -958,7 +958,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 311,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 311,
                         "x": "-58.4159",
                         "y": "-34.6262"
@@ -970,7 +970,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 299,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 299,
                         "x": "-58.416",
                         "y": "-34.6314"
@@ -991,7 +991,7 @@ var json = {
             ],
             "data": {
                 "$area": 30472,
-                "$color": "#FD8D3C",
+                "$color": "#7f2704",
                 "querycount": 30472
             },
             "id": "Artist_7",
@@ -1027,7 +1027,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1827,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1827,
                         "x": "-58.4466",
                         "y": "-34.6281"
@@ -1039,7 +1039,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1344,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1344,
                         "x": "-58.4425",
                         "y": "-34.6213"
@@ -1051,7 +1051,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1339,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1339,
                         "x": "-58.4385",
                         "y": "-34.6194"
@@ -1063,7 +1063,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1155,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1155,
                         "x": "-58.4401",
                         "y": "-34.6201"
@@ -1075,7 +1075,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1124,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1124,
                         "x": "-58.4362",
                         "y": "-34.6184"
@@ -1087,7 +1087,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1113,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1113,
                         "x": "-58.4401",
                         "y": "-34.6088"
@@ -1099,7 +1099,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1058,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1058,
                         "x": "-58.4379",
                         "y": "-34.6192"
@@ -1111,7 +1111,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1037,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 1037,
                         "x": "-58.4409",
                         "y": "-34.6205"
@@ -1132,7 +1132,7 @@ var json = {
             ],
             "data": {
                 "$area": 141560,
-                "$color": "#7F2704",
+                "$color": "#7f2704",
                 "querycount": 141560
             },
             "id": "Artist_8",
@@ -1180,7 +1180,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 779,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 779,
                         "x": "-58.454",
                         "y": "-34.5852"
@@ -1192,7 +1192,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 754,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 754,
                         "x": "-58.4413",
                         "y": "-34.587"
@@ -1204,7 +1204,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 641,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 641,
                         "x": "-58.4489",
                         "y": "-34.5828"
@@ -1216,7 +1216,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 595,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 595,
                         "x": "-58.4448",
                         "y": "-34.5845"
@@ -1228,7 +1228,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 585,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 585,
                         "x": "-58.4493",
                         "y": "-34.5835"
@@ -1240,7 +1240,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 556,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 556,
                         "x": "-58.4403",
                         "y": "-34.59"
@@ -1252,7 +1252,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 478,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 478,
                         "x": "-58.4509",
                         "y": "-34.5825"
@@ -1273,7 +1273,7 @@ var json = {
             ],
             "data": {
                 "$area": 37252,
-                "$color": "#F16913",
+                "$color": "#7f2704",
                 "querycount": 37252
             },
             "id": "Artist_9",
@@ -1414,7 +1414,7 @@ var json = {
             ],
             "data": {
                 "$area": 12210,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 12210
             },
             "id": "Artist_10",
@@ -1438,7 +1438,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1409,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1409,
                         "x": "-58.451",
                         "y": "-34.5805"
@@ -1450,7 +1450,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1284,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1284,
                         "x": "-58.4415",
                         "y": "-34.58"
@@ -1462,7 +1462,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 779,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 779,
                         "x": "-58.4509",
                         "y": "-34.5801"
@@ -1474,7 +1474,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 721,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 721,
                         "x": "-58.4444",
                         "y": "-34.5832"
@@ -1486,7 +1486,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 667,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 667,
                         "x": "-58.4508",
                         "y": "-34.5672"
@@ -1498,7 +1498,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 597,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 597,
                         "x": "-58.4511",
                         "y": "-34.5771"
@@ -1510,7 +1510,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 593,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 593,
                         "x": "-58.4465",
                         "y": "-34.5694"
@@ -1522,7 +1522,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 588,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 588,
                         "x": "-58.4569",
                         "y": "-34.5788"
@@ -1534,7 +1534,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 574,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 574,
                         "x": "-58.4463",
                         "y": "-34.5724"
@@ -1555,7 +1555,7 @@ var json = {
             ],
             "data": {
                 "$area": 53205,
-                "$color": "#D94801",
+                "$color": "#7f2704",
                 "querycount": 53205
             },
             "id": "Artist_11",
@@ -1627,7 +1627,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 636,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 636,
                         "x": "-58.3804",
                         "y": "-34.6221"
@@ -1639,7 +1639,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 555,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 555,
                         "x": "-58.3808",
                         "y": "-34.6221"
@@ -1651,7 +1651,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 545,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 545,
                         "x": "-58.3793",
                         "y": "-34.622"
@@ -1663,7 +1663,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 479,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 479,
                         "x": "-58.3808",
                         "y": "-34.6221"
@@ -1675,7 +1675,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 408,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 408,
                         "x": "-58.3881",
                         "y": "-34.6201"
@@ -1696,7 +1696,7 @@ var json = {
             ],
             "data": {
                 "$area": 35499,
-                "$color": "#F16913",
+                "$color": "#7f2704",
                 "querycount": 35499
             },
             "id": "Artist_12",
@@ -1720,7 +1720,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 2,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 2
                     },
                     "id": "Album_470",
@@ -1729,7 +1729,7 @@ var json = {
             ],
             "data": {
                 "$area": 20,
-                "$color": "#FFFFFF",
+                "$color": "#7f2704",
                 "querycount": 20
             },
             "id": "Artist_13",
@@ -1762,7 +1762,7 @@ var json = {
             ],
             "data": {
                 "$area": 120,
-                "$color": "#FFFFFF",
+                "$color": "#7f2704",
                 "querycount": 120
             },
             "id": "Artist_14",
@@ -1807,7 +1807,7 @@ var json = {
             ],
             "data": {
                 "$area": 329,
-                "$color": "#FFFFFF",
+                "$color": "#7f2704",
                 "querycount": 329
             },
             "id": "Artist_15",
@@ -1840,7 +1840,7 @@ var json = {
             ],
             "data": {
                 "$area": 194,
-                "$color": "#FFFFFF",
+                "$color": "#7f2704",
                 "querycount": 194
             },
             "id": "Artist_16",
@@ -1888,7 +1888,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 945,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 945,
                         "x": "-58.4595",
                         "y": "-34.628"
@@ -1900,7 +1900,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 825,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 825,
                         "x": "-58.454",
                         "y": "-34.6256"
@@ -1912,7 +1912,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 713,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 713,
                         "x": "-58.4446",
                         "y": "-34.6509"
@@ -1924,7 +1924,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 682,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 682,
                         "x": "-58.4552",
                         "y": "-34.6262"
@@ -1936,7 +1936,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 553,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 553,
                         "x": "-58.4667",
                         "y": "-34.6301"
@@ -1948,7 +1948,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 552,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 552,
                         "x": "-58.4609",
                         "y": "-34.6285"
@@ -1960,7 +1960,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 544,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 544,
                         "x": "-58.4586",
                         "y": "-34.6276"
@@ -1981,7 +1981,7 @@ var json = {
             ],
             "data": {
                 "$area": 73439,
-                "$color": "#D94801",
+                "$color": "#7f2704",
                 "querycount": 73439
             },
             "id": "Artist_17",
@@ -2089,7 +2089,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 203,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 203,
                         "x": "-58.4774",
                         "y": "-34.6326"
@@ -2101,7 +2101,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 175,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 175,
                         "x": "-58.4839",
                         "y": "-34.6249"
@@ -2122,7 +2122,7 @@ var json = {
             ],
             "data": {
                 "$area": 18740,
-                "$color": "#FDAE6B",
+                "$color": "#7f2704",
                 "querycount": 18740
             },
             "id": "Artist_18",
@@ -2182,7 +2182,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 247,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 247,
                         "x": "-58.5277",
                         "y": "-34.6393"
@@ -2194,7 +2194,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 199,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 199,
                         "x": "-58.5176",
                         "y": "-34.6393"
@@ -2206,7 +2206,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 195,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 195,
                         "x": "-58.5209",
                         "y": "-34.6391"
@@ -2218,7 +2218,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 180,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 180,
                         "x": "-58.5258",
                         "y": "-34.6569"
@@ -2230,7 +2230,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 176,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 176,
                         "x": "-58.514",
                         "y": "-34.6394"
@@ -2242,7 +2242,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 175,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 175,
                         "x": "-58.5223",
                         "y": "-34.639"
@@ -2263,7 +2263,7 @@ var json = {
             ],
             "data": {
                 "$area": 17534,
-                "$color": "#FDD0A2",
+                "$color": "#7f2704",
                 "querycount": 17534
             },
             "id": "Artist_19",
@@ -2359,7 +2359,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 181,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 181,
                         "x": "-58.4952",
                         "y": "-34.6449"
@@ -2371,7 +2371,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 178,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 178,
                         "x": "-58.5037",
                         "y": "-34.6531"
@@ -2383,7 +2383,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 169,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 169,
                         "x": "-58.5046",
                         "y": "-34.6537"
@@ -2404,7 +2404,7 @@ var json = {
             ],
             "data": {
                 "$area": 22656,
-                "$color": "#FDAE6B",
+                "$color": "#7f2704",
                 "querycount": 22656
             },
             "id": "Artist_20",
@@ -2545,7 +2545,7 @@ var json = {
             ],
             "data": {
                 "$area": 106685,
-                "$color": "#A63603",
+                "$color": "#7f2704",
                 "querycount": 106685
             },
             "id": "Artist_21",
@@ -2653,7 +2653,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 172,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 172,
                         "x": "-58.5022",
                         "y": "-34.6213"
@@ -2665,7 +2665,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 165,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 165,
                         "x": "-58.5017",
                         "y": "-34.6184"
@@ -2686,7 +2686,7 @@ var json = {
             ],
             "data": {
                 "$area": 15964,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 15964
             },
             "id": "Artist_22",
@@ -2758,7 +2758,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 260,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 260,
                         "x": "-58.4228",
                         "y": "-34.6428"
@@ -2770,7 +2770,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 253,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 253,
                         "x": "-58.4164",
                         "y": "-34.652"
@@ -2782,7 +2782,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 237,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 237,
                         "x": "-58.4159",
                         "y": "-34.6461"
@@ -2794,7 +2794,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 176,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 176,
                         "x": "-58.4167",
                         "y": "-34.6554"
@@ -2806,7 +2806,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 167,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 167,
                         "x": "-58.4136",
                         "y": "-34.6517"
@@ -2827,7 +2827,7 @@ var json = {
             ],
             "data": {
                 "$area": 18459,
-                "$color": "#FDD0A2",
+                "$color": "#7f2704",
                 "querycount": 18459
             },
             "id": "Artist_23",
@@ -2837,7 +2837,7 @@ var json = {
             "children": [],
             "data": {
                 "$area": 44090,
-                "$color": "#D94801",
+                "$color": "#7f2704",
                 "querycount": 44090
             },
             "id": "Artist_24",
@@ -2945,7 +2945,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1864,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1864,
                         "x": "-58.4232",
                         "y": "-34.5796"
@@ -2957,7 +2957,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1863,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1863,
                         "x": "-58.4449",
                         "y": "-34.57"
@@ -2978,7 +2978,7 @@ var json = {
             ],
             "data": {
                 "$area": 335623,
-                "$color": "#7F2704",
+                "$color": "#7f2704",
                 "querycount": 335623
             },
             "id": "Artist_25",
@@ -3002,7 +3002,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 272,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 272,
                         "x": "-58.4671",
                         "y": "-34.646"
@@ -3014,7 +3014,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 269,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 269,
                         "x": "-58.468",
                         "y": "-34.647"
@@ -3026,7 +3026,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 233,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 233,
                         "x": "-58.4825",
                         "y": "-34.6415"
@@ -3038,7 +3038,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 144,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 144,
                         "x": "-58.4846",
                         "y": "-34.6453"
@@ -3050,7 +3050,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 144,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 144,
                         "x": "-58.4718",
                         "y": "-34.6517"
@@ -3062,7 +3062,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 135,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 135,
                         "x": "-58.4664",
                         "y": "-34.6457"
@@ -3074,7 +3074,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 125,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 125,
                         "x": "-58.4889",
                         "y": "-34.6489"
@@ -3086,7 +3086,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 123,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 123,
                         "x": "-58.4879",
                         "y": "-34.6484"
@@ -3098,7 +3098,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 113,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 113,
                         "x": "-58.4784",
                         "y": "-34.6405"
@@ -3119,7 +3119,7 @@ var json = {
             ],
             "data": {
                 "$area": 13480,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 13480
             },
             "id": "Artist_26",
@@ -3155,7 +3155,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 310,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 310,
                         "x": "-58.4255",
                         "y": "-34.6324"
@@ -3167,7 +3167,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 309,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 309,
                         "x": "-58.4475",
                         "y": "-34.6349"
@@ -3179,7 +3179,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 292,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 292,
                         "x": "-58.4235",
                         "y": "-34.6402"
@@ -3191,7 +3191,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 291,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 291,
                         "x": "-58.4261",
                         "y": "-34.6292"
@@ -3203,7 +3203,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 261,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 261,
                         "x": "-58.4273",
                         "y": "-34.6285"
@@ -3215,7 +3215,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 250,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 250,
                         "x": "-58.4348",
                         "y": "-34.6314"
@@ -3227,7 +3227,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 245,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 245,
                         "x": "-58.4389",
                         "y": "-34.6353"
@@ -3239,7 +3239,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 233,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 233,
                         "x": "-58.4254",
                         "y": "-34.6334"
@@ -3260,7 +3260,7 @@ var json = {
             ],
             "data": {
                 "$area": 26286,
-                "$color": "#FD8D3C",
+                "$color": "#7f2704",
                 "querycount": 26286
             },
             "id": "Artist_27",
@@ -3284,7 +3284,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 173,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 173,
                         "x": "-58.4811",
                         "y": "-34.5866"
@@ -3296,7 +3296,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 173,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 173,
                         "x": "-58.4765",
                         "y": "-34.5866"
@@ -3308,7 +3308,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 145,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 145,
                         "x": "-58.4736",
                         "y": "-34.5842"
@@ -3320,7 +3320,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 144,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 144,
                         "x": "-58.4734",
                         "y": "-34.5853"
@@ -3332,7 +3332,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 137,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 137,
                         "x": "-58.4807",
                         "y": "-34.5861"
@@ -3344,7 +3344,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 124,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 124,
                         "x": "-58.471",
                         "y": "-34.5865"
@@ -3356,7 +3356,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 122,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 122,
                         "x": "-58.4769",
                         "y": "-34.5835"
@@ -3368,7 +3368,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 121,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 121,
                         "x": "-58.4757",
                         "y": "-34.5825"
@@ -3380,7 +3380,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 115,
-                        "$color": "#fdae6b",
+                        "$color": "#7f2704",
                         "querycount": 115,
                         "x": "-58.4742",
                         "y": "-34.5829"
@@ -3401,7 +3401,7 @@ var json = {
             ],
             "data": {
                 "$area": 11301,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 11301
             },
             "id": "Artist_28",
@@ -3497,7 +3497,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 293,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 293,
                         "x": "-58.3981",
                         "y": "-34.6301"
@@ -3509,7 +3509,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 266,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 266,
                         "x": "-58.405",
                         "y": "-34.6371"
@@ -3521,7 +3521,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 250,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 250,
                         "x": "-58.4005",
                         "y": "-34.6362"
@@ -3542,7 +3542,7 @@ var json = {
             ],
             "data": {
                 "$area": 23428,
-                "$color": "#FDAE6B",
+                "$color": "#7f2704",
                 "querycount": 23428
             },
             "id": "Artist_29",
@@ -3566,7 +3566,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 488,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 488,
                         "x": "-58.4689",
                         "y": "-34.6019"
@@ -3578,7 +3578,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 468,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 468,
                         "x": "-58.4645",
                         "y": "-34.6031"
@@ -3590,7 +3590,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 399,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 399,
                         "x": "-58.4649",
                         "y": "-34.6028"
@@ -3602,7 +3602,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 341,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 341,
                         "x": "-58.4679",
                         "y": "-34.6023"
@@ -3614,7 +3614,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 283,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 283,
                         "x": "-58.4616",
                         "y": "-34.6037"
@@ -3626,7 +3626,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 281,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 281,
                         "x": "-58.4673",
                         "y": "-34.6022"
@@ -3638,7 +3638,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 275,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 275,
                         "x": "-58.4599",
                         "y": "-34.6043"
@@ -3650,7 +3650,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 254,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 254,
                         "x": "-58.459",
                         "y": "-34.6029"
@@ -3662,7 +3662,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 245,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 245,
                         "x": "-58.4721",
                         "y": "-34.6013"
@@ -3683,7 +3683,7 @@ var json = {
             ],
             "data": {
                 "$area": 17583,
-                "$color": "#FDD0A2",
+                "$color": "#7f2704",
                 "querycount": 17583
             },
             "id": "Artist_30",
@@ -3731,7 +3731,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 404,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 404,
                         "x": "-58.3614",
                         "y": "-34.6051"
@@ -3743,7 +3743,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 393,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 393,
                         "x": "-58.3658",
                         "y": "-34.6156"
@@ -3755,7 +3755,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 390,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 390,
                         "x": "-58.3681",
                         "y": "-34.5984"
@@ -3767,7 +3767,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 372,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 372,
                         "x": "-58.3623",
                         "y": "-34.6239"
@@ -3788,7 +3788,7 @@ var json = {
             ],
             "data": {
                 "$area": 8793,
-                "$color": "#FFF5EB",
+                "$color": "#7f2704",
                 "querycount": 8793
             },
             "id": "Artist_31",
@@ -3860,7 +3860,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1950,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1950,
                         "x": "-58.3919",
                         "y": "-34.5918"
@@ -3872,7 +3872,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1938,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1938,
                         "x": "-58.392",
                         "y": "-34.5958"
@@ -3884,7 +3884,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1894,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1894,
                         "x": "-58.3914",
                         "y": "-34.596"
@@ -3896,7 +3896,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1849,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1849,
                         "x": "-58.4071",
                         "y": "-34.5917"
@@ -3908,7 +3908,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 1838,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 1838,
                         "x": "-58.3942",
                         "y": "-34.596"
@@ -3929,7 +3929,7 @@ var json = {
             ],
             "data": {
                 "$area": 232330,
-                "$color": "#7F2704",
+                "$color": "#7f2704",
                 "querycount": 232330
             },
             "id": "Artist_32",
@@ -4070,7 +4070,7 @@ var json = {
             ],
             "data": {
                 "$area": 86456,
-                "$color": "#A63603",
+                "$color": "#7f2704",
                 "querycount": 86456
             },
             "id": "Artist_33",
@@ -4142,7 +4142,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 485,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 485,
                         "x": "-58.4727",
                         "y": "-34.543"
@@ -4154,7 +4154,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 376,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 376,
                         "x": "-58.4682",
                         "y": "-34.5489"
@@ -4166,7 +4166,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 342,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 342,
                         "x": "-58.4749",
                         "y": "-34.54"
@@ -4178,7 +4178,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 341,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 341,
                         "x": "-58.4728",
                         "y": "-34.5432"
@@ -4190,7 +4190,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 336,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 336,
                         "x": "-58.4923",
                         "y": "-34.5469"
@@ -4211,7 +4211,7 @@ var json = {
             ],
             "data": {
                 "$area": 33809,
-                "$color": "#F16913",
+                "$color": "#7f2704",
                 "querycount": 33809
             },
             "id": "Artist_34",
@@ -4295,7 +4295,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 462,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 462,
                         "x": "-58.3985",
                         "y": "-34.6232"
@@ -4307,7 +4307,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 410,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 410,
                         "x": "-58.4089",
                         "y": "-34.6246"
@@ -4319,7 +4319,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 407,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 407,
                         "x": "-58.4034",
                         "y": "-34.6227"
@@ -4331,7 +4331,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 395,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 395,
                         "x": "-58.4031",
                         "y": "-34.624"
@@ -4352,7 +4352,7 @@ var json = {
             ],
             "data": {
                 "$area": 32152,
-                "$color": "#FD8D3C",
+                "$color": "#7f2704",
                 "querycount": 32152
             },
             "id": "Artist_35",
@@ -4436,7 +4436,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 2255,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 2255,
                         "x": "-58.3752",
                         "y": "-34.6033"
@@ -4448,7 +4448,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 2254,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 2254,
                         "x": "-58.3792",
                         "y": "-34.6037"
@@ -4460,7 +4460,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 2180,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 2180,
                         "x": "-58.3752",
                         "y": "-34.6055"
@@ -4472,7 +4472,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 2073,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 2073,
                         "x": "-58.3709",
                         "y": "-34.605"
@@ -4493,7 +4493,7 @@ var json = {
             ],
             "data": {
                 "$area": 208367,
-                "$color": "#7F2704",
+                "$color": "#7f2704",
                 "querycount": 208367
             },
             "id": "Artist_36",
@@ -4529,7 +4529,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 929,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 929,
                         "x": "-58.3685",
                         "y": "-34.6194"
@@ -4541,7 +4541,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 678,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 678,
                         "x": "-58.376",
                         "y": "-34.6181"
@@ -4553,7 +4553,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 613,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 613,
                         "x": "-58.3707",
                         "y": "-34.6219"
@@ -4565,7 +4565,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 587,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 587,
                         "x": "-58.3711",
                         "y": "-34.6254"
@@ -4577,7 +4577,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 577,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 577,
                         "x": "-58.3743",
                         "y": "-34.6197"
@@ -4589,7 +4589,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 567,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 567,
                         "x": "-58.3683",
                         "y": "-34.6233"
@@ -4601,7 +4601,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 512,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 512,
                         "x": "-58.3745",
                         "y": "-34.6183"
@@ -4613,7 +4613,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 487,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 487,
                         "x": "-58.374",
                         "y": "-34.6197"
@@ -4634,7 +4634,7 @@ var json = {
             ],
             "data": {
                 "$area": 32614,
-                "$color": "#F16913",
+                "$color": "#7f2704",
                 "querycount": 32614
             },
             "id": "Artist_37",
@@ -4706,7 +4706,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 261,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 261,
                         "x": "-58.489",
                         "y": "-34.6354"
@@ -4718,7 +4718,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 246,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 246,
                         "x": "-58.4826",
                         "y": "-34.639"
@@ -4730,7 +4730,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 227,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 227,
                         "x": "-58.4909",
                         "y": "-34.6362"
@@ -4742,7 +4742,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 204,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 204,
                         "x": "-58.4949",
                         "y": "-34.6295"
@@ -4754,7 +4754,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 189,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 189,
                         "x": "-58.4797",
                         "y": "-34.6377"
@@ -4775,7 +4775,7 @@ var json = {
             ],
             "data": {
                 "$area": 17194,
-                "$color": "#FDD0A2",
+                "$color": "#7f2704",
                 "querycount": 17194
             },
             "id": "Artist_38",
@@ -4859,7 +4859,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 86,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 86,
                         "x": "-58.5276",
                         "y": "-34.6272"
@@ -4871,7 +4871,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 72,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 72,
                         "x": "-58.523",
                         "y": "-34.6342"
@@ -4883,7 +4883,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 69,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 69,
                         "x": "-58.5216",
                         "y": "-34.6323"
@@ -4895,7 +4895,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 67,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 67,
                         "x": "-58.5164",
                         "y": "-34.6285"
@@ -4916,7 +4916,7 @@ var json = {
             ],
             "data": {
                 "$area": 5106,
-                "$color": "#FFF5EB",
+                "$color": "#7f2704",
                 "querycount": 5106
             },
             "id": "Artist_39",
@@ -5024,7 +5024,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 810,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 810,
                         "x": "-58.438",
                         "y": "-34.5949"
@@ -5036,7 +5036,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 788,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 788,
                         "x": "-58.437",
                         "y": "-34.5989"
@@ -5057,7 +5057,7 @@ var json = {
             ],
             "data": {
                 "$area": 105518,
-                "$color": "#A63603",
+                "$color": "#7f2704",
                 "querycount": 105518
             },
             "id": "Artist_40",
@@ -5198,7 +5198,7 @@ var json = {
             ],
             "data": {
                 "$area": 29400,
-                "$color": "#FD8D3C",
+                "$color": "#7f2704",
                 "querycount": 29400
             },
             "id": "Artist_41",
@@ -5234,7 +5234,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 488,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 488,
                         "x": "-58.5161",
                         "y": "-34.6087"
@@ -5246,7 +5246,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 433,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 433,
                         "x": "-58.524",
                         "y": "-34.6147"
@@ -5258,7 +5258,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 408,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 408,
                         "x": "-58.5286",
                         "y": "-34.6115"
@@ -5270,7 +5270,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 407,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 407,
                         "x": "-58.5117",
                         "y": "-34.6058"
@@ -5282,7 +5282,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 387,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 387,
                         "x": "-58.513",
                         "y": "-34.6066"
@@ -5294,7 +5294,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 387,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 387,
                         "x": "-58.4982",
                         "y": "-34.5975"
@@ -5306,7 +5306,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 377,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 377,
                         "x": "-58.511",
                         "y": "-34.5917"
@@ -5318,7 +5318,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 321,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 321,
                         "x": "-58.5159",
                         "y": "-34.6085"
@@ -5339,7 +5339,7 @@ var json = {
             ],
             "data": {
                 "$area": 39522,
-                "$color": "#D94801",
+                "$color": "#7f2704",
                 "querycount": 39522
             },
             "id": "Artist_42",
@@ -5447,7 +5447,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 258,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 258,
                         "x": "-58.463",
                         "y": "-34.6152"
@@ -5459,7 +5459,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 252,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 252,
                         "x": "-58.4677",
                         "y": "-34.6173"
@@ -5480,7 +5480,7 @@ var json = {
             ],
             "data": {
                 "$area": 21807,
-                "$color": "#FDAE6B",
+                "$color": "#7f2704",
                 "querycount": 21807
             },
             "id": "Artist_43",
@@ -5576,7 +5576,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 164,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 164,
                         "x": "-58.4605",
                         "y": "-34.6749"
@@ -5588,7 +5588,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 160,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 160,
                         "x": "-58.4503",
                         "y": "-34.6804"
@@ -5600,7 +5600,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 144,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 144,
                         "x": "-58.4601",
                         "y": "-34.6887"
@@ -5621,7 +5621,7 @@ var json = {
             ],
             "data": {
                 "$area": 15087,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 15087
             },
             "id": "Artist_44",
@@ -5657,7 +5657,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 149,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 149,
                         "x": "-58.493",
                         "y": "-34.6439"
@@ -5669,7 +5669,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 149,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 149,
                         "x": "-58.5057",
                         "y": "-34.6385"
@@ -5681,7 +5681,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 148,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 148,
                         "x": "-58.4995",
                         "y": "-34.6374"
@@ -5693,7 +5693,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 147,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 147,
                         "x": "-58.5039",
                         "y": "-34.6381"
@@ -5705,7 +5705,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 139,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 139,
                         "x": "-58.5084",
                         "y": "-34.639"
@@ -5717,7 +5717,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 132,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 132,
                         "x": "-58.4993",
                         "y": "-34.6376"
@@ -5729,7 +5729,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 110,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 110,
                         "x": "-58.5019",
                         "y": "-34.6379"
@@ -5741,7 +5741,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 109,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 109,
                         "x": "-58.4978",
                         "y": "-34.6374"
@@ -5762,7 +5762,7 @@ var json = {
             ],
             "data": {
                 "$area": 12021,
-                "$color": "#FEE6CE",
+                "$color": "#7f2704",
                 "querycount": 12021
             },
             "id": "Artist_45",
@@ -5858,7 +5858,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 379,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 379,
                         "x": "-58.4747",
                         "y": "-34.5776"
@@ -5870,7 +5870,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 336,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 336,
                         "x": "-58.4684",
                         "y": "-34.5743"
@@ -5882,7 +5882,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 284,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 284,
                         "x": "-58.463",
                         "y": "-34.5785"
@@ -5903,7 +5903,7 @@ var json = {
             ],
             "data": {
                 "$area": 23845,
-                "$color": "#FD8D3C",
+                "$color": "#7f2704",
                 "querycount": 23845
             },
             "id": "Artist_46",
@@ -5927,7 +5927,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 598,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 598,
                         "x": "-58.5022",
                         "y": "-34.5863"
@@ -5939,7 +5939,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 311,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 311,
                         "x": "-58.4977",
                         "y": "-34.5835"
@@ -5951,7 +5951,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 262,
-                        "$color": "#f16913",
+                        "$color": "#7f2704",
                         "querycount": 262,
                         "x": "-58.5061",
                         "y": "-34.5719"
@@ -5963,7 +5963,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 224,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 224,
                         "x": "-58.4992",
                         "y": "-34.5818"
@@ -5975,7 +5975,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 206,
-                        "$color": "#fd8d3c",
+                        "$color": "#7f2704",
                         "querycount": 206,
                         "x": "-58.4982",
                         "y": "-34.5907"
@@ -5987,7 +5987,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 174,
-                        "$color": "#fdae6b",
+                        "$color": "#7f2704",
                         "querycount": 174,
                         "x": "-58.4951",
                         "y": "-34.5821"
@@ -5999,7 +5999,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 165,
-                        "$color": "#fdae6b",
+                        "$color": "#7f2704",
                         "querycount": 165,
                         "x": "-58.492",
                         "y": "-34.5822"
@@ -6011,7 +6011,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 159,
-                        "$color": "#fdae6b",
+                        "$color": "#7f2704",
                         "querycount": 159,
                         "x": "-58.5",
                         "y": "-34.5811"
@@ -6023,7 +6023,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 159,
-                        "$color": "#fdae6b",
+                        "$color": "#7f2704",
                         "querycount": 159,
                         "x": "-58.5007",
                         "y": "-34.5753"
@@ -6044,7 +6044,7 @@ var json = {
             ],
             "data": {
                 "$area": 20748,
-                "$color": "#FDAE6B",
+                "$color": "#7f2704",
                 "querycount": 20748
             },
             "id": "Artist_47",
@@ -6068,7 +6068,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 157,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 157,
                         "x": "-58.5231",
                         "y": "-34.6157"
@@ -6080,7 +6080,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 147,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 147,
                         "x": "-58.526",
                         "y": "-34.6149"
@@ -6092,7 +6092,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 118,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 118,
                         "x": "-58.517",
                         "y": "-34.6202"
@@ -6104,7 +6104,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 107,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 107,
                         "x": "-58.5252",
                         "y": "-34.6218"
@@ -6116,7 +6116,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 106,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 106,
                         "x": "-58.5271",
                         "y": "-34.6157"
@@ -6128,7 +6128,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 106,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 106,
                         "x": "-58.5198",
                         "y": "-34.6182"
@@ -6140,7 +6140,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 102,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 102,
                         "x": "-58.53",
                         "y": "-34.6176"
@@ -6152,7 +6152,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 97,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 97,
                         "x": "-58.527",
                         "y": "-34.6156"
@@ -6164,7 +6164,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 85,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 85,
                         "x": "-58.5177",
                         "y": "-34.6196"
@@ -6185,7 +6185,7 @@ var json = {
             ],
             "data": {
                 "$area": 6321,
-                "$color": "#FFF5EB",
+                "$color": "#7f2704",
                 "querycount": 6321
             },
             "id": "Artist_48",
@@ -6221,7 +6221,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 159,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 159
                     },
                     "id": "Artist_1547",
@@ -6231,7 +6231,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 156,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 156,
                         "x": "-58.4798",
                         "y": "-34.6915"
@@ -6243,7 +6243,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 80,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 80,
                         "x": "-58.4803",
                         "y": "-34.6901"
@@ -6255,7 +6255,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 75,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 75,
                         "x": "-58.4778",
                         "y": "-34.688"
@@ -6267,7 +6267,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 56,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 56,
                         "x": "-58.476",
                         "y": "-34.6872"
@@ -6279,7 +6279,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 54,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 54,
                         "x": "-58.4738",
                         "y": "-34.6862"
@@ -6291,7 +6291,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 53,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 53
                     },
                     "id": "Artist_1565",
@@ -6301,7 +6301,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 52,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 52,
                         "x": "-58.4746",
                         "y": "-34.6854"
@@ -6322,7 +6322,7 @@ var json = {
             ],
             "data": {
                 "$area": 4377,
-                "$color": "#FFF5EB",
+                "$color": "#7f2704",
                 "querycount": 4377
             },
             "id": "Artist_49",
@@ -6394,7 +6394,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 281,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 281,
                         "x": "-58.4798",
                         "y": "-34.6136"
@@ -6406,7 +6406,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 280,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 280,
                         "x": "-58.4739",
                         "y": "-34.6206"
@@ -6418,7 +6418,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 264,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 264,
                         "x": "-58.4791",
                         "y": "-34.6146"
@@ -6430,7 +6430,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 226,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 226,
                         "x": "-58.4811",
                         "y": "-34.6116"
@@ -6442,7 +6442,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 218,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 218,
                         "x": "-58.4808",
                         "y": "-34.622"
@@ -6463,7 +6463,7 @@ var json = {
             ],
             "data": {
                 "$area": 17199,
-                "$color": "#FDD0A2",
+                "$color": "#7f2704",
                 "querycount": 17199
             },
             "id": "Artist_50",
@@ -6511,7 +6511,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 217,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 217,
                         "x": "-58.4384",
                         "y": "-34.6555"
@@ -6523,7 +6523,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 194,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 194,
                         "x": "-58.4702",
                         "y": "-34.6647"
@@ -6535,7 +6535,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 194,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 194,
                         "x": "-58.4694",
                         "y": "-34.665"
@@ -6547,7 +6547,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 188,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 188,
                         "x": "-58.445",
                         "y": "-34.6607"
@@ -6559,7 +6559,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 163,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 163,
                         "x": "-58.4393",
                         "y": "-34.6659"
@@ -6571,7 +6571,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 160,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 160,
                         "x": "-58.4503",
                         "y": "-34.6804"
@@ -6583,7 +6583,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 122,
-                        "$color": "#d94801",
+                        "$color": "#7f2704",
                         "querycount": 122,
                         "x": "-58.4432",
                         "y": "-34.6648"
@@ -6604,7 +6604,7 @@ var json = {
             ],
             "data": {
                 "$area": 8137,
-                "$color": "#FFF5EB",
+                "$color": "#7f2704",
                 "querycount": 8137
             },
             "id": "Artist_51",
@@ -6676,7 +6676,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 499,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 499,
                         "x": "-58.4826",
                         "y": "-34.5748"
@@ -6688,7 +6688,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 463,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 463,
                         "x": "-58.4829",
                         "y": "-34.5688"
@@ -6700,7 +6700,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 436,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 436,
                         "x": "-58.4801",
                         "y": "-34.5784"
@@ -6712,7 +6712,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 419,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 419,
                         "x": "-58.4814",
                         "y": "-34.5777"
@@ -6724,7 +6724,7 @@ var json = {
                     "children": [],
                     "data": {
                         "$area": 394,
-                        "$color": "#a63603",
+                        "$color": "#7f2704",
                         "querycount": 394,
                         "x": "-58.4881",
                         "y": "-34.5754"
@@ -6745,7 +6745,7 @@ var json = {
             ],
             "data": {
                 "$area": 59835,
-                "$color": "#D94801",
+                "$color": "#7f2704",
                 "querycount": 59835
             },
             "id": "Artist_52",
